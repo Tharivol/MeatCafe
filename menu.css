@@ -1,0 +1,45 @@
+body {
+background-color: beige;
+background-image: url(meatloaf1.jpg);
+
+}
+
+.jumbotron	{
+	font-family: sans-serif;
+	text-shadow: 30px;
+	color: brown;
+	text-decoration: red;
+	border-radius: 40px;
+	width: 315px;
+	margin: 18;
+	border: 4;
+	padding: 0;
+	margin-left: center;
+
+}
+
+.inner	{
+	margin: auto;
+}
+
+.items 	{
+	text-align: center;
+	text-shadow: 20px;
+	text-decoration-color: bold;
+	font-size: 30px;
+	max-width: 40%;
+	margin: 0 auto;
+
+
+}
+
+ul {
+	list-style-type: none;
+}
+
+img {
+	float-left:
+	width:60px;
+	height:100px;
+	border-radius: 15px;
+}
